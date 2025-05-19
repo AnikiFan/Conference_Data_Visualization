@@ -90,7 +90,7 @@ def get_conf_time():
 
 
 @st.cache_data(persist="disk",show_spinner=True)
-def get_sunberst_data():
+def get_sunburst_data():
     if not os.path.exists("./data/sunburst_data.csv"):
         (
             pd
@@ -243,7 +243,6 @@ def get_conf_attribute_data(conf, start, end):
             .apply(lambda row: row.mask(row.notna(), int(row.year)), axis=1)
             .apply(lambda row: row.mask(lambda x: x != row.year, np.inf), axis=1)
             .T
-            .to_csv("./data/conf_attribute_data.csv")
         )
 
 
@@ -522,9 +521,13 @@ def get_graph_data():
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_collaborate_graph():
-    vec, node_info = get_graph_data()
-    D3 = d3graph()
-    adjmat = vec2adjmat(vec.source, vec.target, vec.weight)
-    D3.graph(adjmat=adjmat, size=node_info.loc[adjmat.index, "count"].tolist())
-    D3.set_edge_properties(directed=True, marker_end='arrow')
-    return D3.show(filepath=None)
+    if not os.path.exists("./data/graph.html"):
+        vec, node_info = get_graph_data()
+        D3 = d3graph()
+        adjmat = vec2adjmat(vec.source, vec.target, vec.weight)
+        D3.graph(adjmat=adjmat, size=node_info.loc[adjmat.index, "count"].tolist())
+        D3.set_edge_properties(directed=True, marker_end='arrow')
+        with open("./data/graph.html","w") as f:
+            f.write(D3.show(filepath=None))
+    with open("./data/graph.html","r") as f:
+        return f.read()
