@@ -74,10 +74,9 @@ def read_available():
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_conf_time():
-    raw = read_data()
     if not os.path.exists("./data/conf_time_data.csv"):
         (
-            raw
+            read_data()
             .loc[:, ["year", "meeting"]]
             .groupby("meeting")
             .agg(["min", "max"])
@@ -91,12 +90,11 @@ def get_conf_time():
 
 
 @st.cache_data(persist="disk",show_spinner=True)
-def get_sunburst_data():
-    raw = read_data()
+def get_sunberst_data():
     if not os.path.exists("./data/sunburst_data.csv"):
         (
             pd
-            .DataFrame(raw.loc[:, ["meeting", "status"]].value_counts())
+            .DataFrame(read_data().loc[:, ["meeting", "status"]].value_counts())
             .reset_index()
             .rename(columns={0: "count"})
             .replace(conf_name_map)
@@ -107,10 +105,9 @@ def get_sunburst_data():
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_count_data():
-    raw = read_data()
     if not os.path.exists("./data/count_data.csv"):
         (
-            raw
+            read_data()
             .loc[:, ["meeting", "year"]]
             .value_counts()
             .reset_index()
@@ -193,10 +190,9 @@ def get_available_fig():
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_attribute_data():
-    raw = read_data()
     if not os.path.exists("./data/attribute_data.csv"):
         (
-            raw
+            read_data()
             .notna()
             .assign(meeting=raw.meeting)
             .groupby("meeting")
@@ -491,8 +487,7 @@ def get_author_number_fig():
 def get_author_number_data():
     if not os.path.exists("./data/author_number_data.csv"):
         (
-            pd
-            .read_csv("./data/raw.csv")
+            read_data()
             .assign(author_number=lambda x: x.author.map(
                 lambda s: len(sum([ss.split(';') for ss in (s.split(',') if not isinstance(s, float) else [])], []))))
             .loc[lambda x: x.author_number > 0, :]
