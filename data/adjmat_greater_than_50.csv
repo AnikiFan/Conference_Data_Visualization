@@ -1,0 +1,168 @@
+source,target,weight
+Google DeepMind,Google,453
+University of California,Google,375
+Google,Google DeepMind,286
+Zhejiang University,Alibaba Group,283
+Stanford University,Google,224
+Google Research,Google,201
+University of Texas at Austin,University of Texas,198
+Microsoft,Microsoft Research,194
+ETHZ - ETH Zurich,Swiss Federal Institute of Technology,193
+Google,Google Research,170
+Carnegie Mellon University,Google,167
+University of California,Amazon,162
+University of Science and Technology of China,Microsoft Research Asia,162
+Microsoft Research,Microsoft,159
+University of California,Carnegie Mellon University,158
+Peking University,Tsinghua University,140
+Korea Advanced Institute of Science & Technology,KAIST,136
+Tsinghua University,Peking University,135
+Peking University,University of California,134
+University of Washington,Allen Institute for Artificial Intelligence,134
+Google,Google Brain,133
+Meta Facebook,Meta,132
+Zhejiang University,Westlake University,129
+Peking University,Microsoft,129
+Massachusetts Institute of Technology,Google,127
+Meta,Meta Facebook,127
+University of Science and Technology of China,Microsoft,122
+Peking University,Alibaba Group,119
+Zhejiang University,National University of Singapore,115
+University of Cambridge,University of California,114
+Carnegie Mellon University,University of California,112
+University of California,Microsoft,111
+University of Chinese Academy of Sciences,Institute of Automation,109
+Peking University,Microsoft Research Asia,108
+University of Chinese Academy of Sciences,Institute of Information Engineering,108
+Tsinghua University,Alibaba Group,107
+Tsinghua University,University of California,106
+University of Science and Technology of China,Alibaba Group,106
+KAIST,Korea Advanced Institute of Science & Technology,101
+The Chinese University of Hong Kong,Tencent AI Lab,99
+Carnegie Mellon University,Meta Facebook,96
+University of Texas,University of Texas at Austin,96
+Google,Research,96
+Tsinghua University,Tencent AI Lab,95
+Tsinghua University,Tencent,94
+University of California,Stanford University,92
+Rensselaer Polytechnic Institute,International Business Machines,91
+National University of Singapore,Nanyang Technological University,90
+Shanghai Jiaotong University,Huawei Technologies Ltd.,90
+Technische Universität München,Technical University Munich,89
+University of Hong Kong,The University of Hong Kong,89
+Stanford University,University of California,88
+Microsoft,Microsoft Research Asia,88
+EPFL - EPF Lausanne,Swiss Federal Institute of Technology Lausanne,88
+Google Brain,Google,87
+Institute of Automation,Institute of automation,86
+Tsinghua University,Microsoft,86
+University of California,Massachusetts Institute of Technology,85
+Research,Google,82
+University of Illinois Urbana-Champaign,University of Illinois,82
+University of Wisconsin - Madison,University of Wisconsin,81
+University of California,Google DeepMind,81
+University of Illinois,Amazon,80
+Alibaba Group,Zhejiang University,80
+Tsinghua University,Microsoft Research Asia,80
+Massachusetts Institute of Technology,University of California,80
+KAUST,King Abdullah University of Science and Technology,79
+Massachusetts Institute of Technology,International Business Machines,79
+University of California,Covariant,78
+Tsinghua University,Carnegie Mellon University,78
+Institute of Automation,University of Chinese Academy of Sciences,78
+University of Michigan - Ann Arbor,University of Michigan,77
+Google,University of California,77
+Allen Institute for Artificial Intelligence,University of Washington,77
+Shanghai Jiaotong University,Tsinghua University,77
+University of California,UC Santa Barbara,76
+Hong Kong Polytechnic University,The Hong Kong Polytechnic University,76
+Tsinghua University,Huawei Noah’s Ark Lab,76
+Ohio State University,The Ohio State University,75
+University of Chinese Academy of Sciences,Institute of Computing Technology,75
+Institute of Computing Technology,University of Chinese Academy of Sciences,74
+University of California,Microsoft Research,73
+Carnegie Mellon University,Amazon,73
+Tsinghua University,Microsoft Research,72
+Université de Montréal,University of Montreal,72
+Beijing University of Posts and Telecommunications,Beijing University of Post and Telecommunication,71
+Zhejiang University,Ant Group,71
+University of Chinese Academy of Sciences,Tsinghua University,71
+Tsinghua University,Harbin Institute of Technology,70
+University of California,NVIDIA,70
+Massachusetts Institute of Technology,Microsoft,70
+Tsinghua University,Renmin University of China,69
+Peking University,Stanford University,68
+Tsinghua University,The Chinese University of Hong Kong,68
+Hong Kong University of Science and Technology,Huawei Technologies Ltd.,68
+The Chinese University of Hong Kong,Nanyang Technological University,67
+University of Toronto,Google,67
+University of California,Meta AI,66
+University of California,Adobe Research,66
+Institute of automation,Institute of Automation,65
+Swiss Federal Institute of Technology Lausanne,EPFL - EPF Lausanne,65
+University of California,Peking University,65
+University of Oxford,Google DeepMind,64
+Carnegie Mellon University,Stanford University,63
+The Chinese University of Hong Kong,SenseTime Research,63
+Tsinghua University,Stanford University,63
+University of Wisconsin,University of Wisconsin - Madison,63
+Technion - Israel Institute of Technology,Technion,62
+University of California,Google Research,62
+University of Technology Sydney,Zhejiang University,61
+Huawei Technologies Ltd.,Huawei Noah's Ark Lab,61
+University of Washington,Google,61
+University of Science and Technology of China,National University of Singapore,61
+University of Illinois,University of Illinois Urbana-Champaign,61
+Xi'an University of Electronic Science and Technology,Xidian University,61
+Nanjing University,Alibaba Group,61
+Xiamen University,Tencent Youtu Lab,61
+Harvard University,Google,61
+Mohamed bin Zayed University of Artificial Intelligence,Carnegie Mellon University,60
+Stanford University,NVIDIA,60
+University of Michigan,University of Michigan - Ann Arbor,59
+Department of Computer Science,Swiss Federal Institute of Technology,59
+University of Chinese Academy of Sciences,Alibaba Group,59
+Peking University,Microsoft Research,59
+University of Montreal,Université de Montréal,58
+Chinese University of Hong Kong,The Chinese University of Hong Kong,58
+Harvard University,Massachusetts Institute of Technology,57
+National University of Singapore,University of Science and Technology of China,57
+University of Science and Technology of China,Institute of Computing Technology,57
+University of California,University of Southern California,57
+The Hong Kong University of Science and Technology,Hong Kong University of Science and Technology,57
+Harbin Institute of Technology,Tsinghua University,56
+Beihang University,Tsinghua University,56
+Google,Carnegie Mellon University,56
+The Chinese University of Hong Kong,Shanghai AI Laboratory,56
+Peking University,Carnegie Mellon University,56
+Shanghai Jiaotong University,Alibaba Group,55
+University of Science and Technology of China,Microsoft Research,55
+University of Illinois,University of California,55
+University of Science and Technology of China,University of Science and Technology of China+Institute of Artificial Intelligence,54
+Polytechnic Institute of Milan,Politecnico di Milano,54
+University of Maryland,Adobe Research,54
+University of Southern California,Amazon,54
+Swiss Federal Institute of Technology,ETHZ - ETH Zurich,54
+Carnegie Mellon University,Google Research,54
+Peking University,Beijing Institute for General Artificial Intelligence,54
+Peking University,The Chinese University of Hong Kong,53
+University of California,Tsinghua University,53
+Technische Universität Darmstadt,TU Darmstadt,53
+University of Science and Technology of China,Huawei Technologies Ltd.,53
+Massachusetts Institute of Technology,MIT-IBM Watson AI Lab,53
+Carnegie Mellon University,Mohamed bin Zayed University of Artificial Intelligence,53
+King Abdullah University of Science and Technology,KAUST,53
+University of Science and Technology of China,Nanyang Technological University,52
+Tsinghua University,Shanghai Jiaotong University,52
+Texas A&M University - College Station,Texas A&M University,52
+University of Washington,Microsoft Research,51
+The Chinese University of Hong Kong,Tsinghua University,51
+East China Normal University,Alibaba Group,51
+Nanyang Technological University,SenseTime Research,51
+Tsinghua University,Beijing University of Posts and Telecommunications,50
+Renmin University of China,Tsinghua University,50
+Stanford University,Massachusetts Institute of Technology,50
+Carnegie Mellon University,Microsoft Research,50
+Massachusetts Institute of Technology,Harvard University,50
+Shanghai Jiao Tong University,Youtu Lab,50
+Pohang University of Science and Technology,POSTECH,50

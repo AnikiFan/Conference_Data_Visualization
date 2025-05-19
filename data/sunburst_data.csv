@@ -1,0 +1,63 @@
+meeting,status,count
+NeurIPS,Poster,18882
+ICLR,Reject,17209
+CVPR,Poster,16507
+AAAI,Technical,11347
+ICLR,Poster,9265
+ICLR,Withdraw,7381
+ECCV,Poster,7122
+ICCV,Poster,5984
+ICML,Poster,5503
+IJCAI,Poster,4263
+ACL,Long,2948
+EMNLP,Main,2907
+WACV,Poster,2675
+NeurIPS,Spotlight,2378
+SIGGRAPH,Technical Paper,2355
+ICML,Spotlight,2323
+ACL,Findings,2185
+ICML,Oral,1977
+EMNLP,finding,1947
+ICLR,Spotlight,1143
+CVPR,Oral,1121
+SIGGRAPH Asia,Technical Paper,1045
+ACM MM,Poster,974
+EMNLP,Long Main,862
+EMNLP,Long Findings,818
+NeurIPS,Reject,814
+CoRL,Poster,721
+NeurIPS,Oral,653
+CVPR,Highlight,547
+AISTATS,Poster,547
+ICLR,Oral,483
+ACL,Short,477
+ICCV,Oral,440
+CoLM,Poster,299
+ICLR,Top-25%,280
+CVPR,Spotlight,272
+SIGGRAPH,TOG Paper,245
+SIGGRAPH,Poster,243
+The Web Conference,Poster,216
+ECCV,Oral,200
+NeurIPS,Highlighted,199
+EMNLP,Short Findings,198
+ICLR,Desk Reject,197
+The Web Conference,Oral,189
+EMNLP,Industry,184
+ACM MM,Oral,174
+ICLR,Workshop,137
+EMNLP,Short Main,133
+NeurIPS,Journal,111
+SIGGRAPH Asia,Poster,95
+CoRL,Oral,92
+EMNLP,System Demonstrations,92
+ICLR,Top-5%,91
+ACL,Industry,76
+ICCV,Spotlight,56
+ICLR,Talk,48
+ACL,System Demonstrations,38
+AISTATS,Oral,37
+ICLR,Poster Workshop,25
+EMNLP,Reject,9
+ICLR,Oral Workshop,7
+ICLR,Active,3

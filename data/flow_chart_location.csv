@@ -1,0 +1,994 @@
+id,name,latitude,longitude
+0,Georgia Institute of Technology,33.749,-84.38798
+1,Toyota Research Institute,37.44188,-122.14302
+2,University of Kentucky,37.98869,-84.47772
+3,Oregon State University,44.56457,-123.26204
+4,Brown University,41.82399,-71.41283
+5,Google,37.38605,-122.08385
+6,University of Toronto,43.70643,-79.39864
+7,Max Planck Institute for Informatics,49.23262,7.00982
+8,Beijing Institute of Technology,39.9075,116.39723
+9,Microsoft Research,52.2,0.11667
+10,Wuhan University,30.58333,114.26667
+11,Shanghai University,31.22222,121.45806
+12,University of California,37.87159,-122.27275
+13,Stony Brook University,40.92565,-73.14094
+14,King Abdullah University of Science and Technology,21.49012,39.18624
+15,Nagoya Institute of Technology,35.18147,136.9064
+16,Microsoft,47.67399,-122.12151
+17,Japan,35.6895,139.69171
+18,Fuzhou University,26.06139,119.30611
+19,Agricultural Information Institute,39.9075,116.39723
+20,Indian Institute of Technology Ropar,30.96896,76.52695
+21,University of Nottingham,52.9536,-1.15047
+22,Abu Dhabi,24.45118,54.39696
+23,INDIA,28.62137,77.2148
+24,Washington University in St. Louis,38.62727,-90.19789
+25,Renmin University of China,39.9075,116.39723
+26,Northwestern Polytechnical University,34.25833,108.92861
+27,Technion,32.81841,34.9885
+28,Graz University of Technology,47.06667,15.45
+29,Haifa,32.81841,34.9885
+30,University of Washington,47.60621,-122.33207
+31,Israel,42.35843,-71.05977
+32,Nanjing University of Science and Technology,32.06167,118.77778
+33,Electronics and Telecommunications Research Institute,36.34913,127.38493
+34,HKUST,20.31261,110.16439
+35,Guangzhou Laboratory,23.11667,113.25
+36,Columbia University,40.71427,-74.00597
+37,Institute of Automation,39.9075,116.39723
+38,Chinese Academy of Sciences,39.9075,116.39723
+39,Lebanese American University,33.89332,35.50157
+40,University of Exeter,50.7236,-3.52751
+41,Princeton University,40.34872,-74.65905
+42,Arizona State University,33.41477,-111.90931
+43,Institute of Computer Science,52.22977,21.01178
+44,University of Virginia,38.02931,-78.47668
+45,York University,40.71427,-74.00597
+46,Xi’an,31.30408,120.59538
+47,Ann Arbor,42.27756,-83.74088
+48,Shaanxi,34.25833,108.92861
+49,Preferred Networks,35.6895,139.69171
+50,Keio University,35.6895,139.69171
+51,University of Liverpool,53.41058,-2.97794
+52,Beijing Language and Culture University,39.9075,116.39723
+53,École de Technologie Supérieure,45.50884,-73.58781
+54,University of Minnesota,44.97997,-93.26384
+55,North Carolina State University,35.7721,-78.63861
+56,Tel-Aviv University,32.08088,34.78057
+57,University of Edinburgh,55.95206,-3.19648
+58,West Lafayette,40.42587,-86.90807
+59,Harbin Engineering University,45.75,126.65
+60,Purdue University,40.42587,-86.90807
+61,UiT The Arctic University of Norway,69.6489,18.95508
+62,University of Crete,35.36555,24.48232
+63,Indiana University,39.16533,-86.52639
+64,Center for Applied Mathematics,43.26271,-2.92528
+65,University of Freiburg,47.9959,7.85222
+66,China University of Mining and Technology,34.20442,117.28386
+67,Zhejiang Lab,30.29365,120.16142
+68,Davis,38.54491,-121.74052
+69,Tianjin,39.14222,117.17667
+70,Institute of Software,39.9075,116.39723
+71,Verisk Analytics,40.72816,-74.07764
+72,Marne-la-Vallée,48.85341,2.3488
+73,Huaqiao University,24.47979,118.08187
+74,Chongqing University,29.56026,106.55771
+75,Children’s Hospital,51.9225,4.47917
+76,Imperial College,51.50853,-0.12574
+77,The University of Queensland,-27.46794,153.02809
+78,National Technical University of Athens,37.98376,23.72784
+79,Indian Statistical Institute,22.56263,88.36304
+80,Sullivan Nicolaides Pathology,-27.46794,153.02809
+81,University of West Attica,37.98376,23.72784
+82,Beth Israel Deaconess Medical Center,42.35843,-71.05977
+83,University of Patras,38.24444,21.73444
+84,Hunan First Normal University,28.19874,112.97087
+85,Central South University,28.19874,112.97087
+86,France.,48.85341,2.3488
+87,Chinese University of Hong Kong,22.27832,114.17469
+88,Universidade Federal de Minas Gerais,-19.92083,-43.93778
+89,Lancaster University,54.04649,-2.79988
+90,Radboud University,51.8425,5.85278
+91,Bournemouth University,50.71429,-1.98458
+92,Marina del Rey,33.98162,-118.45371
+93,Nijmegen,51.8425,5.85278
+94,University of California Riverside,33.95335,-117.39616
+95,Netherlands,52.37403,4.88969
+96,Idiap Research Institute,46.07817,7.05099
+97,FAIR,37.33939,-121.89496
+98,Santa Barbara,34.42083,-119.69819
+99,University of Arkansas,36.06258,-94.15743
+100,Concordia University,45.50884,-73.58781
+101,Xi'an,34.25833,108.92861
+102,TomTom,52.21045,9.96486
+103,University of Connecticut,41.80843,-72.24952
+104,Technical University of Denmark,55.77044,12.50378
+105,Zhejiang Gongshang University,30.29365,120.16142
+106,Tübingen,48.52266,9.05222
+107,Eastern Kentucky University,37.74786,-84.29465
+108,Nong Lam University,10.82302,106.62965
+109,University of Florida,29.65163,-82.32483
+110,Ho Chi Minh City,10.82302,106.62965
+111,Vietnam,21.0245,105.84117
+112,City College of New York,40.71427,-74.00597
+113,Advanced Digital Sciences Center,1.28967,103.85007
+114,Assiut University,27.18096,31.18368
+115,University of Louisville,38.25424,-85.75941
+116,ISLA,37.38283,-5.97317
+117,University Of Minnesota,44.97997,-93.26384
+118,Informatics Institute,49.23262,7.00982
+119,Tsukuba,36.2,140.1
+120,Nagoya University,35.18147,136.9064
+121,University of Technology,52.00667,4.35556
+122,University of Texas at Arlington,32.73569,-97.10807
+123,Saarland University,49.23262,7.00982
+124,University of Southern Denmark,55.39594,10.38831
+125,Cambridge,52.2,0.11667
+126,Riverside,33.95335,-117.39616
+127,Bernstein Center for Computational Neuroscience,48.52266,9.05222
+128,Royal Institute of Technology,59.32938,18.06871
+129,Cognition,52.2,0.11667
+130,University of Oxford.,51.75222,-1.25596
+131,Galen,17.1588,-89.0696
+132,Media Lab,38.89511,-77.03637
+133,Hengyang Normal University,26.88946,112.61888
+134,A Coruña,43.37135,-8.396
+135,The University of Texas at Arlington,32.73569,-97.10807
+136,Adobe,37.33939,-121.89496
+137,Albany,42.65258,-73.75623
+138,State University of New York,42.65258,-73.75623
+139,Berkeley - Berkeley,37.87159,-122.27275
+140,Beijing University of Technology,39.9075,116.39723
+141,Central China Normal University,30.58333,114.26667
+142,Sharif University of Technology,35.69439,51.42151
+143,King's College London,51.50853,-0.12574
+144,Oak Ridge National Laboratory,36.01036,-84.26964
+145,Max Planck Institute,48.10732,11.45196
+146,Bar Ilan University,32.08227,34.81065
+147,Huawei Technologies,22.54554,114.0683
+148,University Of Wollongong,-34.424,150.89345
+149,CyberAgent,35.6895,139.69171
+150,Advanced Micro Devices,43.86682,-79.2663
+151,Zhejiang University†,30.29365,120.16142
+152,Shenzhen Urban Transport Planning Center Co.,22.54554,114.0683
+153,Indian Institute of Technology Hyderabad,17.62477,78.08669
+154,Technion – Israel Institute of Technology,32.81841,34.9885
+155,University of Illinois Chicago,41.85003,-87.65005
+156,Hong Kong Polytechnic University,22.27832,114.17469
+157,Goethe University Frankfurt,50.11552,8.68417
+158,University of New Brunswick,45.94541,-66.66558
+159,Russian-Armenian University,40.18111,44.51361
+160,Yerevan State University,40.18111,44.51361
+161,NetEase,39.9075,116.39723
+162,Kuaishou,39.9075,116.39723
+163,Peking University+Peking University,39.9075,116.39723
+164,Apple†,37.323,-122.03218
+165,EMBL,-37.91667,145.11667
+166,Department of Physics,53.9,27.56667
+167,University of Texas at Dallas,32.94818,-96.72972
+168,Mechatronics,48.30639,14.28611
+169,University B,33.87029,-117.92534
+170,University C,22.29507,82.02366
+171,Baidu,39.9075,116.39723
+172,University A,30.62798,-96.33441
+173,Ukrainian Catholic University,49.83826,24.02324
+174,Kunming University of Science and Technology,25.03889,102.71833
+175,Icahn School of Medicine at Mount Sinai,40.71427,-74.00597
+176,University of Minnesota†,44.97997,-93.26384
+177,Group,22.54554,114.0683
+178,Allen Institute for Artificial Intelligence,47.60621,-122.33207
+179,Fujian Agriculture and Forestry University,26.06139,119.30611
+180,Beijing Normal University,39.9075,116.39723
+181,Samsung Advanced Institute of Technology,37.28586,127.00993
+182,École de technologie supérieure,45.50884,-73.58781
+183,University of Kurdistan,35.31495,46.99883
+184,University of Bucharest,44.43225,26.10626
+185,Yantai University,37.47649,121.44081
+186,INRIA†,45.22537,5.8017
+187,Cambridge University,52.2,0.11667
+188,Surrey,51.23536,-0.57427
+189,INRIA Sophia Antipolis,43.63292,6.99911
+190,HeFei University of Technology,31.86389,117.28083
+191,National Institutes of Health Clinical Center,38.98067,-77.10026
+192,University of Iowa,41.66113,-91.53017
+193,Cisco Systems,37.33939,-121.89496
+194,Delft,52.00667,4.35556
+195,Pasadena,34.14778,-118.14452
+196,The Netherlands,52.37403,4.88969
+197,United International College,22.27694,113.56778
+198,New York University Shanghai,31.22222,121.45806
+199,Kingston University,51.50853,-0.12574
+200,Amirkabir University of Technology,35.69439,51.42151
+201,Brazil,-22.90642,-43.18223
+202,FRANCE,48.85341,2.3488
+203,Tokyo Metropolitan University,35.6895,139.69171
+204,Villanova University,40.04622,-75.35991
+205,Saitama University,35.90807,139.65657
+206,DATA,52.2,0.11667
+207,Laboratoire Bordelais de Recherche en Informatique,44.80849,-0.58915
+208,DigitalGlobe,39.83665,-105.0372
+209,Italian Institute of Technology,44.40478,8.94439
+210,Sorbonne université,48.85341,2.3488
+211,UNIL,46.52899,6.56261
+212,University of Rochester‡,43.15478,-77.61556
+213,The University of Sydney*,-33.86785,151.20732
+214,Ulsan National Institute of Science and Technology,35.53722,129.31667
+215,Lausanne,46.516,6.63282
+216,Berlin Institute of Health,52.52437,13.41053
+217,Jiangnan University,31.56887,120.28857
+218,Universitat de Barcelona,41.38879,2.15899
+219,Bristol,51.45523,-2.59665
+220,Konkuk University Medical Center,37.566,126.9784
+221,. Virginia Tech,37.22957,-80.41394
+222,San Jose State University,37.33939,-121.89496
+223,. Academia Sinica,25.05306,121.52639
+224,Tel-Aviv,32.08088,34.78057
+225,MILA,45.50884,-73.58781
+226,DeepGlint,39.9075,116.39723
+227,Jilian Technology Group,31.22222,121.45806
+228,Goethe University,50.11552,8.68417
+229,Johannes Kepler University Linz,48.30639,14.28611
+230,Macau,22.20056,113.54611
+231,Johns Hopkins University Applied Physics Laboratory,39.139,-76.87053
+232,The Weizmann Institute of Science,40.71427,-74.00597
+233,Las Vegas,36.17497,-115.13722
+234,University of Texas - Rio Grande Valley,26.30174,-98.16334
+235,University of Nevada,39.52963,-119.8138
+236,Memorial University of Newfoundland,47.56494,-52.70931
+237,Centre for Neuroscience,51.75222,-1.25596
+238,Bioinformatics Institute,52.2,0.11667
+239,Max Planck Institute of Molecular Cell Biology and Genetics,51.05089,13.73832
+240,Tehran,35.69439,51.42151
+241,Utah University,40.76078,-111.89105
+242,Iran,35.69439,51.42151
+243,Gainesville,33.62594,-97.13335
+244,Institute of Computer Technology,26.55695,31.69478
+245,Zhejiang,30.29365,120.16142
+246,Science Park,45.64953,13.77678
+247,Institute of Robotics,42.69751,23.32415
+248,University of Leicester,52.6386,-1.13169
+249,Wuzhou University,23.48054,111.28848
+250,Tongji University†,31.22222,121.45806
+251,Max-Planck-Institute for Biogeochemistry,50.92878,11.5899
+252,University of Genoa,44.40478,8.94439
+253,Centre des Materiaux,36.73575,10.52751
+254,New York University  Abu Dhabi,24.45118,54.39696
+255,Flinders University,-34.92866,138.59863
+256,Hefei Institutes of Physical Science,31.86389,117.28083
+257,Jianghan University,30.58333,114.26667
+258,Southwest University,29.56026,106.55771
+259,Mercedes-Benz,48.78232,9.17702
+260,Liaoning Technical University,42.01556,121.65889
+261,Institute of Artificial Intelligence,24.45118,54.39696
+262,Eastern Institute of Technology,-39.4926,176.91232
+263,Dongguk University,37.566,126.9784
+264,Suzhou Institute of Biomedical Engineering and Technology,31.30408,120.59538
+265,University of Hyogo,34.6913,135.183
+266,National Cheng-Kung University,22.99083,120.21333
+267,École Polytechnique Fédérale de Lausanne,46.516,6.63282
+268,Dalian University of Technology†,38.91222,121.60222
+269,ServiceNow,37.35411,-121.95524
+270,Dalian University of Technology∗,38.91222,121.60222
+271,Shanghai Jiao Tong University*†,31.22222,121.45806
+272,Shanghai Jiao Tong University†,31.22222,121.45806
+273,University of Toronto‡,43.70643,-79.39864
+274,Stanford University†,37.42411,-122.16608
+275,University of Tübingen†,48.52266,9.05222
+276,University of Seoul,37.566,126.9784
+277,Unity∗,43.70643,-79.39864
+278,Capital Medical University,39.9075,116.39723
+279,BOE Technology Group,39.9075,116.39723
+280,Chongqing University of Technology,29.56026,106.55771
+281,Mass General Brigham,42.35843,-71.05977
+282,Nanjing Normal University,32.06167,118.77778
+283,NIST,39.14344,-77.20137
+284,Université Sorbonne Paris Nord,48.95833,2.34167
+285,Shanghai Maritime University,31.22222,121.45806
+286,City University of Hong Kong+Shenzhen Research Institute,22.54554,114.0683
+287,Dongguan University of Technology,23.01797,113.74866
+288,University of Guelph,43.54594,-80.25599
+289,Warsaw University of Technology,52.22977,21.01178
+290,Technion-Israel Institute of Technology,32.81841,34.9885
+291,Ludwig-Maximilians-Universität München,48.13743,11.57549
+292,Tianjin University‡,39.14222,117.17667
+293,Tianjin University∗,39.14222,117.17667
+294,Oklahoma State University,36.11561,-97.05837
+295,United Imaging,31.22222,121.45806
+296,MEGVII,39.9075,116.39723
+297,University of Wisconsin–Madison†,43.07305,-89.40123
+298,Curtin University,-31.95224,115.8614
+299,University of Duisburg-Essen,51.45657,7.01228
+300,University of Pisa,43.70853,10.4036
+301,Pontificia Universidad Católica de Chile,-33.45694,-70.64827
+302,Karlsruhe University of Applied Sciences,49.00937,8.40444
+303,Korea Aerospace University,37.65639,126.835
+304,Polytechnique Montréal,45.50884,-73.58781
+305,IMAG,-23.71056,-46.41333
+306,Université de Montréal,45.50884,-73.58781
+307,University of Cyprus,35.17531,33.3642
+308,Université Laval*,46.81228,-71.21454
+309,George Washington University,38.89511,-77.03637
+310,Research Center for Information Technology Innovation,25.05306,121.52639
+311,Information Technologies Institute,40.64361,22.93086
+312,Universitat Oberta de Catalunya∗,41.38879,2.15899
+313,Massachusetts Institute of Technology‡,42.3751,-71.10561
+314,Khalifa University,24.45118,54.39696
+315,University of Canberra,-35.28346,149.12807
+316,‡National University of Sciences and Technology,33.72148,73.04329
+317,School of Information Engineering,48.7939,2.35992
+318,Zhengzhou,34.75778,113.64861
+319,Toshiba Corporation,35.6895,139.69171
+320,University of Wyoming†,41.31137,-105.5911
+321,Carbondale,37.72727,-89.21675
+322,Salt Lake City,40.76078,-111.89105
+323,Southern Illinois University,37.72727,-89.21675
+324,Purdue,40.42587,-86.90807
+325,San Francisco,37.77493,-122.41942
+326,University of Perugia,43.1122,12.38878
+327,Sharif University,35.69439,51.42151
+328,Louisville,38.25424,-85.75941
+329,Max Planck Institute of Immunobiology and Epigenetics,47.9959,7.85222
+330,Rennes,48.11198,-1.67429
+331,– Japan,35.6895,139.69171
+332,Shanghai Institutes for Biological Sciences,31.22222,121.45806
+333,University of Bergen,60.39299,5.32415
+334,Communications,35.6895,139.69171
+335,Universidad de Santiago de Chile,-33.45694,-70.64827
+336,- Japan,35.6895,139.69171
+337,University of Jena,50.92878,11.5899
+338,Lomonosov Moscow State University,55.75222,37.61556
+339,Universidad de Valladolid,41.65518,-4.72372
+340,Jeonbuk National University,35.82194,127.14889
+341,InterDigital,39.74595,-75.54659
+342,Shenzhen People’s Hospital,22.54554,114.0683
+343,KDDI Research,35.86142,139.51532
+344,Edinburgh University,55.95206,-3.19648
+345,Snowflake,45.67965,-111.03856
+346,IT University of Copenhagen,55.67594,12.56553
+347,Grand Canyon University,33.44838,-112.07404
+348,LinkedIn,37.36883,-122.03635
+349,Allstate,42.09975,-87.7809
+350,Shahid Beheshti University,35.69439,51.42151
+351,Technology Innovation Institute,24.45118,54.39696
+352,Xiaohongshu,31.22222,121.45806
+353,China Huaneng,39.9075,116.39723
+354,Beijing jiaotong university,39.9075,116.39723
+355,Nara National Research Institute for Cultural Properties,34.68505,135.80486
+356,Dongbei University of Finance And Economics,38.91222,121.60222
+357,Institute of automation,39.9075,116.39723
+358,Chinese Academy Sciences,39.9075,116.39723
+359,Universität Kaiserslautern,49.19844,8.11692
+360,Zhongnan University of Economics and Law,30.58333,114.26667
+361,University of Massachusetts Boston,42.35843,-71.05977
+362,North University of China,37.86944,112.56028
+363,kuaishou,39.9075,116.39723
+364,Tsukuba University,36.2,140.1
+365,fujian medical university,26.06139,119.30611
+366,Queen's University Belfast,54.59682,-5.92541
+367,Hokkaido University,43.06667,141.35
+368,Shanghai Business School,31.22222,121.45806
+369,Tibet University,29.65,91.1
+370,Southwestern University,32.78306,-96.80667
+371,Université Paris Saclay,48.68333,2.13333
+372,Lahore University of Management Sciences,31.558,74.35071
+373,Foundation for Research and Technology,35.32787,25.14341
+374,VISA,37.55855,-122.27108
+375,Kookmin University,37.566,126.9784
+376,Korea Institute for Advanced Study,37.566,126.9784
+377,Shanghai University of Engineering Science,31.22222,121.45806
+378,Electrical Engineering Department,41.85003,-87.65005
+379,genentech,37.77493,-122.41942
+380,Birla Institute of Technology and Science,28.36725,75.60352
+381,The Institute of Statistical Mathematics,35.6895,139.69171
+382,Universidad Carlos III de Madrid,40.4165,-3.70256
+383,Abdus Salam International Centre for Theoretical Physics,45.64953,13.77678
+384,jiangnan University,31.56887,120.28857
+385,United Imaging Healthcare,31.22222,121.45806
+386,Harvard-MIT Health Sciences and Technology,42.3751,-71.10561
+387,Institut de Recherche en Informatique de Toulouse,43.60426,1.44367
+388,Université d'Angers,47.47156,-0.55202
+389,Fermi National Accelerator Laboratory,41.85003,-88.31257
+390,Cluster,48.24896,11.65101
+391,University of Antwerp,51.22047,4.40026
+392,shanxi university,37.86944,112.56028
+393,University of Tartu,58.38062,26.72509
+394,Telecom SudParis,48.63389,2.44417
+395,saarland university,49.23262,7.00982
+396,Onto Innovation,34.23556,-77.94604
+397,Université Gustave Eiffel,48.85,2.6
+398,UCLouvain,50.66829,4.61443
+399,Fuyang Normal University,32.9,115.81667
+400,University of Louisiana at Lafayette,30.22409,-92.01984
+401,CNRS@CREATE LTD.,1.28967,103.85007
+402,University of Kansas Medical Center,39.11417,-94.62746
+403,Pasqal,48.85341,2.3488
+404,University of Montana,46.87215,-113.994
+405,Santa Fe Institute,35.68698,-105.9378
+406,University of Waikato,-37.78333,175.28333
+407,University of Applied Sciences Western Switzerland,47.36493,7.34453
+408,tiangong university,39.14222,117.17667
+409,Max Planck Institute for Software Systems,49.23262,7.00982
+410,Kent State University,41.15367,-81.35789
+411,Sungshin Women's University,37.566,126.9784
+412,University of South Carolina - Aiken,33.56042,-81.71955
+413,Defence Science and Technology Group,-35.28346,149.12807
+414,Valeo,48.85341,2.3488
+415,the Graduate University for Advanced Studies,35.27651,139.57733
+416,Hanoi University of Science and Technology,21.0245,105.84117
+417,Université Paris Nord,48.95833,2.34167
+418,Toronto University,43.70643,-79.39864
+419,University of Münster,51.96236,7.62571
+420,University of Siena,43.31822,11.33064
+421,Singapore Institute of Manufacturing Technology,1.28967,103.85007
+422,Università della Svizzera Italiana,46.01008,8.96004
+423,Potsdam Institute for Climate Impact Research,52.39886,13.06566
+424,NanJing University,32.06167,118.77778
+425,Michigan Technological University,47.12187,-88.56901
+426,University of Oklahoma,35.22257,-97.43948
+427,Institute of Advanced Technology,36.34913,127.38493
+428,"Sofia University ""St. Kliment Ohridski""",42.69751,23.32415
+429,University of North Carolina Charlotte,35.22709,-80.84313
+430,Indian Institute of Science Education and Research Kolkata,22.56263,88.36304
+431,West Bengal National University of Juridical Sciences,22.56263,88.36304
+432,University of Edinburgh†,55.95206,-3.19648
+433,Universidad Politécnica de Madrid,40.4165,-3.70256
+434,Milwaukee School of Engineering,43.0389,-87.90647
+435,Singapore University of Technology and Design+,1.28967,103.85007
+436,CMU†,22.80087,113.29208
+437,UC San Diego∗,32.71571,-117.16472
+438,Columbia University⋄,40.71427,-74.00597
+439,Heinrich-Heine University Düsseldorf,51.22172,6.77616
+440,Kempelen Institute of Intelligent Technologies,48.14816,17.10674
+441,University of Gothenburg,57.70716,11.96679
+442,Stony Brook University†,40.92565,-73.14094
+443,King Fahd University of Petroleum and Minerals,26.28864,50.11396
+444,Prince Sattam bin Abdulaziz University,24.15541,47.33457
+445,Saarland University⋄,49.23262,7.00982
+446,Cisco+,37.33939,-121.89496
+447,Nantes Université,47.21725,-1.55336
+448,Japan Advanced Institute of Science and Technology,36.43593,136.54456
+449,Ministry of Justice,51.50853,-0.12574
+450,Meisei University,35.6895,139.69171
+451,UNION INFORMATION,35.32787,25.14341
+452,Universidade Federal do Rio Grande do Sul,-30.03283,-51.23019
+453,Institute of Computing,39.9075,116.39723
+454,Seed Foundation,38.89511,-77.03637
+455,Miles,33.48594,-86.91194
+456,Amazon‡,47.60621,-122.33207
+457,National Central University,24.99368,121.29696
+458,Humboldt Universität zu Berlin,52.52437,13.41053
+459,Duolingo,40.44062,-79.99589
+460,University of Strathclyde†,55.86515,-4.25763
+461,University of Chinese Academy of Sciences⊛,39.9075,116.39723
+462,Fudan University†*,31.22222,121.45806
+463,Fudan University†,31.22222,121.45806
+464,University of Marburg,50.80904,8.77069
+465,University of Galway,53.27245,-9.05095
+466,Zhejiang University of Technology‡,30.29365,120.16142
+467,Zhejiang University of Technology‡∗,30.29365,120.16142
+468,Zhejiang University†‡,30.29365,120.16142
+469,Zhejiang University†§,30.29365,120.16142
+470,National and Kapodistrian University of Athens,37.98376,23.72784
+471,Clausthal University of Technology,51.80949,10.33821
+472,BASF,49.48121,8.44641
+473,Oberlin College,41.29394,-82.21738
+474,Peking University▲,39.9075,116.39723
+475,Sun-Yat Sen University,23.11667,113.25
+476,Nanjing Audit University,32.06167,118.77778
+477,the University of Melbourne,-37.814,144.96332
+478,State Grid Corporation of China,39.9075,116.39723
+479,IBM Research - Tokyo,35.6895,139.69171
+480,LG Chem,37.566,126.9784
+481,University of Richmond,37.55376,-77.46026
+482,University of Edinburgh University,55.95206,-3.19648
+483,Democritus University of Thrace,41.11917,25.40535
+484,Brain Technologies,32.14613,34.8394
+485,Copenhagen Business School,55.67594,12.56553
+486,Shanxi University of Finance and Economics,37.86944,112.56028
+487,Harrisburg University of Science and Technology,40.2737,-76.88442
+488,Hong Kong University of Science and Technology†,22.27832,114.17469
+489,Amazon⋆,47.60621,-122.33207
+490,University of Ibadan,7.37756,3.90591
+491,University of Buea,4.15342,9.24231
+492,Nnamdi Azikiwe University,6.21269,7.07199
+493,Telkom University,-6.92222,107.60694
+494,Hong Kong University of Science and Technology  + Hong Kong University of Science and Technology,22.27832,114.17469
+495,University of Southern California†,34.05223,-118.24368
+496,BINUS,-6.21462,106.84513
+497,Central University of Rajasthan,26.4521,74.63867
+498,Hyundai Motor Group,37.566,126.9784
+499,Adobe Systems∗,37.33939,-121.89496
+500,Delhi Technological University,28.62137,77.2148
+501,△Sichuan University,30.66667,104.06667
+502,University of Maryland∗,38.98067,-76.93692
+503,IBM Research Ireland,53.33306,-6.24889
+504,Campus Bio-Medico University,41.89193,12.51133
+505,University of Latvia,56.946,24.10589
+506,Department of Humanities,53.9,27.56667
+507,RWTH-Aachen University,50.77664,6.08342
+508,Oakland University,42.68059,-83.13382
+509,the University of Tokyo,35.6895,139.69171
+510,University of Klagenfurt,46.62472,14.30528
+511,Smith College,42.32509,-72.6412
+512,Toyota Motor Corporation,47.32163,7.98254
+513,Technische Universität Braunschweig,52.26594,10.52673
+514,Université de Bretagne Sud,47.74817,-3.37177
+515,Universitatea Bucuresti,44.43225,26.10626
+516,dalian university of technology,38.91222,121.60222
+517,Institute of information engineering,39.9075,116.39723
+518,Nanjing University Of Science And Technology,32.06167,118.77778
+519,Vector,43.70643,-79.39864
+520,Umeå University,63.82842,20.25972
+521,BNP Paribas,48.85341,2.3488
+522,Amplitude,44.80565,-0.6324
+523,National Taipei University,25.05306,121.52639
+524,T-Bank,42.88645,-78.87837
+525,Splunk,37.77493,-122.41942
+526,Institut National des Sciences Appliquées de Toulouse,43.60426,1.44367
+527,Institute of Advanced Research in Artificial Intelligence,48.20849,16.37208
+528,Natural Resources Institute Finland,60.16952,24.93545
+529,Rzeszow University of Technology,50.04132,21.99901
+530,Mahidol University,13.75398,100.50144
+531,Vidyasirimedhi Institute of Science and Technology,12.68095,101.25798
+532,University Jean Monnet,40.95653,16.92075
+533,Peking university,39.9075,116.39723
+534,Trinity College,53.33306,-6.24889
+535,Université Paris Cité,48.85341,2.3488
+536,Universidad Privada Boliviana,-17.3895,-66.1568
+537,Dalian maritime university,38.91222,121.60222
+538,Indiana University Purdue University Indianapolis,39.76838,-86.15804
+539,Colorado State University Pueblo,38.25445,-104.60914
+540,Université d'Avignon,43.94834,4.80892
+541,Queen's University,44.22976,-76.48098
+542,HTW Berlin,52.52437,13.41053
+543,Institute of Systems Engineering,51.05089,13.73832
+544,Karolinska Institutet,59.32938,18.06871
+545,Science for Life Laboratory,59.32938,18.06871
+546,Beijing  Jiaotong University,39.9075,116.39723
+547,University of Akron,41.08144,-81.51901
+548,Amadeus,40.4165,-3.70256
+549,SungkyunKwan University,37.566,126.9784
+550,Sungkyunkwan,37.566,126.9784
+551,Chennai Mathematical Institute,13.08784,80.27847
+552,Ericsson,59.40316,17.94479
+553,University of Brescia,45.53558,10.21472
+554,Institut für Informatik,53.14118,8.21467
+555,Food and Drug Administration,38.99067,-77.02609
+556,Inria Grenoble-Alpes,45.22537,5.8017
+557,Dickinson College,40.20148,-77.18887
+558,Work,43.70643,-79.39864
+559,Southern Illinois University-Carbondale,37.72727,-89.21675
+560,Ubisoft,45.50884,-73.58781
+561,Dexcom,32.71571,-117.16472
+562,Radboud University Medical Center,51.8425,5.85278
+563,University of Arkansas - Fayetteville,36.06258,-94.15743
+564,San Diego Supercomputer Center,32.71571,-117.16472
+565,Fortiss,48.13743,11.57549
+566,North-West University,-26.71667,27.1
+567,Dalle Molle Institute for Artificial Intelligence Research,46.01008,8.96004
+568,Friedrich-Alexander-Universität,49.59099,11.00783
+569,University of California-Los Angeles,34.05223,-118.24368
+570,Luleå University of Technology,65.58415,22.15465
+571,Complexity Science Hub,48.20849,16.37208
+572,LINE,40.04622,-75.35991
+573,Saint Louis University,38.62727,-90.19789
+574,Atmospheric Environmental Research,42.44732,-71.2245
+575,Johannes Kepler University,48.30639,14.28611
+576,Leidos Inc,39.41427,-77.41054
+577,Zhejiang University of Finance and Economics,30.29365,120.16142
+578,MD Anderson Cancer Center,29.76328,-95.36327
+579,Thales,48.85341,2.3488
+580,Holy Spirit University of Kaslik,33.89332,35.50157
+581,Reitaku University,35.86224,139.97733
+582,Beijing Normal University-Hong Kong Baptist University United International College,22.27694,113.56778
+583,Lebanese University,33.89332,35.50157
+584,Universidad Católica del Uruguay,-34.90328,-56.18816
+585,NTT Research,35.44272,139.36931
+586,ZHIPU AI,39.9075,116.39723
+587,Apollo Research,13.21055,79.0956
+588,Space Telescope Science Institute,39.29038,-76.61219
+589,AI Singapore,1.28967,103.85007
+590,University of Rwanda,-2.59667,29.73944
+591,Institute of Immunology and Physiology,56.8519,60.6122
+592,Instituto Politécnico Nacional,19.42847,-99.12766
+593,China university of petroleum,39.9075,116.39723
+594,Yamaha,34.7,137.73334
+595,Sirius University of Science and Technology,43.59699,39.72477
+596,Örebro University,59.27412,15.2066
+597,Leibniz university,52.37052,9.73322
+598,ShangHai Artificial Intelligence Laboratory,31.22222,121.45806
+599,École française d'Extrême-Orient,48.85341,2.3488
+600,Mediatek,24.80361,120.96861
+601,helmholtz zentrum hereon,53.43575,10.3779
+602,Beihang  University,39.9075,116.39723
+603,Beijing Electronic Science and Technology Institute,39.9075,116.39723
+604,Evidation Health,37.56299,-122.32553
+605,vector,43.70643,-79.39864
+606,Shanghai Jiao tong University,31.22222,121.45806
+607,Input Output,1.28967,103.85007
+608,University Ca' Foscari of Venice,45.43713,12.33265
+609,Swarthmore College,39.90206,-75.34991
+610,Max Planck Institute of Animal Behavior,47.74194,8.97098
+611,Qihoo,39.9075,116.39723
+612,Cognizant,40.8976,-74.01597
+613,Wuhan university science and technology,30.58333,114.26667
+614,qihoo,39.9075,116.39723
+615,Institute of computing,39.9075,116.39723
+616,FPT University,21.0245,105.84117
+617,NanJing Audit University,32.06167,118.77778
+618,Imam Abdulrahman Bin Faisal University,26.43442,50.10326
+619,University of Texas Health Science Center at Houston,29.76328,-95.36327
+620,Université Claude Bernard Lyon,45.76601,4.8795
+621,Université de Bordeaux,44.84044,-0.5805
+622,St. Louis University,38.62727,-90.19789
+623,Rhode Island School of Design,41.82399,-71.41283
+624,Vivo,33.52066,-86.80249
+625,Kuwait University,29.36972,47.97833
+626,Capital University of Physical Education and Sports,39.9075,116.39723
+627,National Tsing-Hua University,24.80361,120.96861
+628,National Taiwan University Hospital,25.05306,121.52639
+629,Regensburg University,49.01513,12.10161
+630,Sangmyung University,36.8065,127.1522
+631,University of Poznan,52.40692,16.92993
+632,Institut Polytechnique de Paris,48.71828,2.2498
+633,Instituto Nacional de Matemática Pura e Aplicada,-22.90642,-43.18223
+634,Clermont-Auvergne-INP,45.75082,3.11078
+635,Jönköping University,57.78145,14.15618
+636,Ardahan University,41.10871,42.70222
+637,Erzurum Technical University,39.90861,41.27694
+638,AGH University,50.06143,19.93658
+639,Otto von Guericke University Magdeburg,52.12773,11.62916
+640,European Commission,50.85045,4.34878
+641,Math,42.26259,-71.80229
+642,University of Southern Queensland,-27.56056,151.95386
+643,Université de Tunis,36.81897,10.16579
+644,Institut Supérieur de Gestion de Tunis,36.81897,10.16579
+645,University of Hull,53.7446,-0.33525
+646,University of Sassari,40.72586,8.55552
+647,Tunis,36.81897,10.16579
+648,University of Piraeus,37.94203,23.64619
+649,Qinghai Normal University,36.62554,101.75739
+650,China Three Gorges University,30.71444,111.28472
+651,International Institute of Information Technology Bangalore,12.97194,77.59369
+652,Thomas Jefferson University,39.95238,-75.16362
+653,Dongbei University of Finance and Economics,38.91222,121.60222
+654,St. Cloud State University,45.5608,-94.16249
+655,Changchun Institute of Optics,43.88,125.32278
+656,Software AG,41.89193,12.51133
+657,Tokyo + The University of Tokyo,35.6895,139.69171
+658,Nanjing audit university,32.06167,118.77778
+659,University of Hagen,51.36081,7.47168
+660,Artificial Intelligence Group,46.253,20.14824
+661,Arabian Gulf University,26.22787,50.58565
+662,World Anti-Doping Agency,45.50884,-73.58781
+663,German Research Centre for Artificial Intelligence,49.443,7.77161
+664,University of the West of England,51.45523,-2.59665
+665,Shantou University Medical College,23.35489,116.67876
+666,Baylor University,31.54933,-97.14667
+667,Institut National des Sciences Appliquées de Rennes,48.11198,-1.67429
+668,Swisscom,46.94809,7.44744
+669,Shenzhen Luohu Hospital,22.54554,114.0683
+670,Texas,30.62798,-96.33441
+671,Hubei University of Technology,30.58333,114.26667
+672,U.S. Geological Survey,61.21806,-149.90028
+673,Brunel University London,51.50853,-0.12574
+674,Intuitive Surgical,37.36883,-122.03635
+675,Norwegian Research Centre,60.39299,5.32415
+676,Stellenbosch University,-33.93462,18.86676
+677,University of Jinan,36.66833,116.99722
+678,Ben Gurion University,31.25181,34.7913
+679,New Delhi,28.62137,77.2148
+680,Beijing University of Civil Engineering and Architecture,39.9075,116.39723
+681,Logan,38.66311,-90.57707
+682,Lisboa,38.71667,-9.13333
+683,INDIAN INSTITUTE OF TECHNOLOGY KANPUR,26.46523,80.34975
+684,Woods Hole Oceanographic Institution,41.5515,-70.61475
+685,Twin Cities,44.88969,-93.34995
+686,Yokohama City University Medical Center,35.43333,139.65
+687,Bowling Green State University,41.37477,-83.65132
+688,UAE.,25.07725,55.30927
+689,Ohio,39.96118,-82.99879
+690,Alabama,33.52066,-86.80249
+691,Sunnyvale,37.36883,-122.03635
+692,University of Kerala,8.4855,76.94924
+693,College of Business,56.946,24.10589
+694,Chungbuk National University,36.63722,127.48972
+695,Visual Information Laboratory,39.9075,116.39723
+696,Bucharest,44.43225,26.10626
+697,Cardiff,51.48,-3.18
+698,United States,38.96872,-77.3411
+699,Helmholtz Imaging,48.24896,11.65101
+700,Beijing Union University,39.9075,116.39723
+701,Québec,45.50884,-73.58781
+702,Bangladesh,24.75636,90.40646
+703,Indian Institute of Technology Jammu,32.73528,74.86167
+704,Calgary,51.05011,-114.08529
+705,Florence,43.77925,11.24626
+706,Polish Academy of Sciences,52.22977,21.01178
+707,Reutlingen University,48.49144,9.20427
+708,Kaiserslautern,49.443,7.77161
+709,Independent University,23.7104,90.40744
+710,Torino,45.07049,7.68682
+711,Research Center,49.40768,8.69079
+712,Arkansas Economic Development Commission,34.74648,-92.28959
+713,Indian Institute of Technology Indore,22.71792,75.8333
+714,University Hospital Bonn,50.73438,7.09549
+715,Hasan Kalyoncu University,37.05944,37.3825
+716,Agora,52.06667,5.19861
+717,Autonomous Systems,43.12314,-71.01145
+718,University of Colorado Denver,39.73915,-104.9847
+719,Punjabi University,30.33625,76.3922
+720,Punjab,31.558,74.35071
+721,National Institute of Technology Karnataka,12.91723,74.85603
+722,Kyoto,35.02107,135.75385
+723,Indian Institute of Technology-Madras,13.08784,80.27847
+724,The Graduate Center,40.71427,-74.00597
+725,Marquette University,43.0389,-87.90647
+726,Ankara,39.91987,32.85427
+727,Digital Services,48.85341,2.3488
+728,Medical University of Warsaw,52.22977,21.01178
+729,Korea.,37.566,126.9784
+730,Kindai University,34.69379,135.50107
+731,Tokyo Metropolitan Institute of Gerontology,35.6895,139.69171
+732,Tokyo Medical and Dental University,35.6895,139.69171
+733,Eastern Mediterranean University,35.12489,33.94135
+734,‡University of Toronto,43.70643,-79.39864
+735,Alder Hey Hospital,53.41058,-2.97794
+736,Fuzhou,26.06139,119.30611
+737,RheinMain University of Applied Sciences,50.08258,8.24932
+738,Qihoo-,39.9075,116.39723
+739,Universidade de Lisboa,38.71667,-9.13333
+740,University of California Riverside†,33.95335,-117.39616
+741,Cergy,49.03894,2.07805
+742,University Southern California,34.05223,-118.24368
+743,Hong Kong China,22.27832,114.17469
+744,INRIA Grenoble,45.22537,5.8017
+745,Hanover,38.71423,-85.47357
+746,University of Oxford†,51.75222,-1.25596
+747,Sichuan Cancer Hospital,30.66667,104.06667
+748,University of Maryland College Park†,38.98067,-76.93692
+749,Apple*,37.323,-122.03218
+750,Nanjing University of Science And Technology,32.06167,118.77778
+751,NYU†,40.71427,-74.00597
+752,Verona,45.43854,10.9938
+753,Jean Monnet University,40.95653,16.92075
+754,Joint Research Centre,45.8148,8.61294
+755,TURKEY,39.91987,32.85427
+756,Italy.,41.89193,12.51133
+757,Centre of Mathematical Sciences,61.78491,34.34691
+758,Chapel Hill,35.9132,-79.05584
+759,Lund,55.70584,13.19321
+760,Université libre de Bruxelles,50.85045,4.34878
+761,Dhirubhai Ambani Institute Of Information and Communication Technology,23.21667,72.68333
+762,RIKEN center for Advanced Intelligence Project,35.6895,139.69171
+763,Perm National Research Polytechnic University,43.97833,46.69852
+764,Bauman Moscow State Technical University,55.75222,37.61556
+765,Institute of physics,39.9075,116.39723
+766,Repsol,40.4165,-3.70256
+767,deepglint,39.9075,116.39723
+768,Université de Bretagne Occidentale,48.39029,-4.48628
+769,Tsinghua university,39.9075,116.39723
+770,Ramakrishna Mission Vivekananda Educational and Research Institute,22.56263,88.36304
+771,GlaxoSmithKline,51.50853,-0.12574
+772,Dedan Kimathi University of Technology,-0.42013,36.94759
+773,Interdigital,39.74595,-75.54659
+774,Universiti Teknologi Petronas,4.5841,101.0829
+775,University of California-San Diego,32.71571,-117.16472
+776,vivo,33.52066,-86.80249
+777,Swiss Center for Electronics and Microtechnology,46.99179,6.931
+778,Université Claude Bernard,45.76601,4.8795
+779,Indian Institute of Management Calcutta,22.56263,88.36304
+780,Tehran University of Medical Sciences,35.69439,51.42151
+781,schrodinger.,40.71427,-74.00597
+782,Tennessee State University,36.31344,-82.35347
+783,Shandong University of Finance and Economics,36.66833,116.99722
+784,Max-Planck Institute for Biological Intelligence,48.10732,11.45196
+785,Gift University,32.15567,74.18705
+786,Dankook University,36.8065,127.1522
+787,University of Central Punjab,31.558,74.35071
+788,Dhirubhai Ambani Institute of Information and communication Technology,23.21667,72.68333
+789,university of cambridge,52.2,0.11667
+790,Shanghai Polytechnic University,31.22222,121.45806
+791,BRAC University,23.7104,90.40744
+792,Brac University,23.7104,90.40744
+793,INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR,22.33971,87.32501
+794,German University in Cairo,30.06263,31.24967
+795,Tianjin Conservatory of Music,39.14222,117.17667
+796,pfizer,40.71427,-74.00597
+797,Kennesaw State University,34.02343,-84.61549
+798,University of California Merced,37.30216,-120.48297
+799,University of Hawaii,21.30694,-157.85834
+800,Constructor,53.07582,8.80717
+801,Coventry University,52.40656,-1.51217
+802,henan normal university,30.49999,108.27278
+803,xiaomi,39.9075,116.39723
+804,Barnard College,40.71427,-74.00597
+805,Wesleyan University,41.56232,-72.65065
+806,Sichuan Normal University,30.66667,104.06667
+807,University of Saskatchewan,52.13238,-106.66892
+808,Academy of Military Science,39.9075,116.39723
+809,Fujitsu,34.2152,135.1501
+810,Institute of Engineering,30.33625,76.3922
+811,Oslo Metropolitan University,59.91273,10.74609
+812,China Aerodynamics Research and Development Center,31.46784,104.68168
+813,Yazd University,31.89722,54.3675
+814,Quantinuum,52.2,0.11667
+815,Korea Institute of Energy Technology,37.566,126.9784
+816,University of Allahabad,25.44478,81.84322
+817,Hiroshima University,34.4,132.45
+818,Warsaw School of Computer Science,52.22977,21.01178
+819,illinois institute of technology,41.85003,-87.65005
+820,Flanders Make,51.23074,5.31349
+821,Azad University,35.69439,51.42151
+822,Universidad de Navarra,42.81687,-1.64323
+823,beijing institute of technology,39.9075,116.39723
+824,Flagship Pioneering,42.3751,-71.10561
+825,Imec,50.87959,4.70093
+826,Cherepovets State University,59.13333,37.9
+827,beihang university,39.9075,116.39723
+828,De La Salle University,14.6042,120.9822
+829,Department of Science,28.62137,77.2148
+830,Chukyo University,35.18147,136.9064
+831,Capital University of Economics and Business,39.9075,116.39723
+832,China National Nuclear Corporation,39.9075,116.39723
+833,The Institute of Cancer Research,48.14816,17.10674
+834,Aligarh Muslim University,27.88145,78.07464
+835,China University of Petroleum Beijing,39.9075,116.39723
+836,China University Of Petroleum,39.9075,116.39723
+837,Qinghai University,36.62554,101.75739
+838,YanShan University,39.94104,119.58936
+839,DeepSeek,30.29365,120.16142
+840,Harbin Institute Technology,45.75,126.65
+841,Albert Einstein College of Medicine,40.84985,-73.86641
+842,Sohu,39.9075,116.39723
+843,Royal Danish Academy,55.67594,12.56553
+844,the university of tokyo,35.6895,139.69171
+845,ShenZhen University,22.54554,114.0683
+846,Anhui University of Traditional Chinese Medicine,31.86389,117.28083
+847,King Abdulaziz City for Science and Technology,24.68773,46.72185
+848,Arthur,39.96118,-82.99879
+849,INESC TEC,41.14961,-8.61099
+850,university of texas at dallas,32.94818,-96.72972
+851,AIRI Institute,55.75222,37.61556
+852,Indian Institute of Technology Bhilai,21.20919,81.4285
+853,Asan Medical Center,37.566,126.9784
+854,National Park College,34.5037,-93.05518
+855,cyber security,52.07667,4.29861
+856,Rafael,32.81841,34.9885
+857,private,31.95522,35.94503
+858,Grenoble Institute of Neurosciences,45.20507,5.74629
+859,Peking Union Medical College,39.9075,116.39723
+860,University Health Network,43.70643,-79.39864
+861,Dali University,25.58474,100.21229
+862,University of Colorado Anschutz Medical Campus,39.72943,-104.83192
+863,Ningbo University of Technology,29.87819,121.54945
+864,University Corporation for Atmospheric Research,40.01499,-105.27055
+865,Applied Materials,37.35411,-121.95524
+866,Institute of Mathematics,52.22977,21.01178
+867,Southern Oregon University,42.19458,-122.70948
+868,University of Information Technology and Management in Rzeszow,50.04132,21.99901
+869,European Bioinformatics Institute,52.2,0.11667
+870,Universidade Vale do Rio dos Sinos,-29.76028,-51.14722
+871,Duke-NUS medical School,1.28967,103.85007
+872,Christ University,12.97194,77.59369
+873,Kangnam University,37.23825,127.17795
+874,United States Senate,38.89511,-77.03637
+875,Athena Research and Innovation Center,38.05,23.8
+876,Verses,34.05223,-118.24368
+877,Ai Sweden,57.70716,11.96679
+878,Fujian Agriculture and Forestry university,26.06139,119.30611
+879,UNSW,-33.86785,151.20732
+880,Max Planck Institute for the Science of Light,49.59099,11.00783
+881,Atilim University,39.91987,32.85427
+882,Helmholtz Centre for Infection Research,52.26594,10.52673
+883,Xilinx,37.33939,-121.89496
+884,Capgemini,52.09083,5.12222
+885,Point,44.52358,-89.57456
+886,Anthem,39.76838,-86.15804
+887,Imdea Networks,40.32718,-3.7635
+888,D. E. Shaw Research,40.71427,-74.00597
+889,china university of petroleum Beijing,39.9075,116.39723
+890,Nicolaus Copernicus University,53.01375,18.59814
+891,Mount Sinai Icahn School of Medicine,40.71427,-74.00597
+892,Quest University Canada,49.24966,-123.11934
+893,United Kingdom.,52.2,0.11667
+894,La Jolla,32.71571,-117.16472
+895,Zagreb,45.81444,15.97798
+896,Institut Universitaire de France,48.85341,2.3488
+897,University of California - Irvine,33.66946,-117.82311
+898,. Harbin Institute of Technology,45.75,126.65
+899,Jinan,23.11667,113.25
+900,Posts and Telecommunications Institute of Technology,20.97136,105.77876
+901,Dataminr,40.71427,-74.00597
+902,Saint-Petersburg State University,59.93863,30.31413
+903,Alexandra Institute,56.15674,10.21076
+904,DePauw University,39.64449,-86.86473
+905,LAIT,48.11198,-1.67429
+906,National University of Defense Technology+*,28.19874,112.97087
+907,China+Shenzhen University,22.54554,114.0683
+908,Northeast Forestry University,45.75,126.65
+909,Novartis Institutes for BioMedical Research,47.55773,7.59361
+910,Teva Pharmaceuticals,40.21094,-75.27823
+911,United States Agency for International Development,38.89511,-77.03637
+912,China + University of Electronic Science and Technology of China,30.66667,104.06667
+913,World Wide Fund for Nature,47.36667,8.55
+914,Xi’an University of Posts and Telecommunications,34.25833,108.92861
+915,Sheffield University,53.38297,-1.4659
+916,Bridgewater State University,41.99038,-70.97504
+917,Children’s Hospital of Fudan University,24.47979,118.08187
+918,Guangxi University of Science and Technology,24.32405,109.40698
+919,University of Lethbridge,49.69999,-112.81856
+920,New Mexico Institute of Mining and Technology,34.0584,-106.89142
+921,Institute for the Study of Learning and Expertise,37.44188,-122.14302
+922,MedStar Health,39.24038,-76.83942
+923,Jiangxi University of Science and Technology,28.81842,115.43273
+924,Air Resources Laboratory,38.98067,-76.93692
+925,Bowdoin College,43.91452,-69.96533
+926,Brunswick,45.94541,-66.66558
+927,Maine,44.88312,-68.67198
+928,California State Polytechnic University,34.05529,-117.75228
+929,Coventry,52.40656,-1.51217
+930,Shanghai Jiao Tong University*,31.22222,121.45806
+931,Automation,39.9075,116.39723
+932,Los Angeles Pierce College,34.05223,-118.24368
+933,Nanyang Normal University,32.99472,112.53278
+934,Huaiyin Institute of Technology,33.58861,119.01917
+935,Mohammed Bin Rashid University of Medicine and Health Sciences,25.07725,55.30927
+936,Technology Center,35.52056,139.71722
+937,Army Combat Capabilities Development Command,39.46686,-76.13066
+938,Naval Information Warfare Center  Pacific,32.71571,-117.16472
+939,Heilongjiang Academy of Sciences,46.45566,123.6092
+940,China Electronics Standardization Institute,39.9075,116.39723
+941,National Taiwan University+National Taiwan Normal University,25.05306,121.52639
+942,The University of Technology,41.11722,20.80194
+943,DexCom,32.71571,-117.16472
+944,McLean,42.39593,-71.17867
+945,Norway,69.6489,18.95508
+946,American University,38.89511,-77.03637
+947,Raleigh,35.7721,-78.63861
+948,Shenzhen MSU-BIT University+Shenzhen University,22.54554,114.0683
+949,HangZhou Dianzi University,30.29365,120.16142
+950,Peking University Third Hospital,39.9075,116.39723
+951,IBM Research - India,28.62137,77.2148
+952,China Academy of Chinese Medical Sciences,39.9075,116.39723
+953,Department of Preventive Medicine,21.0245,105.84117
+954,China+South China University of Technology,23.11667,113.25
+955,Data Sciences,44.94441,-93.09327
+956,Duke Institute for Health Innovation,35.99403,-78.89862
+957,Inkbit,42.41843,-71.10616
+958,Jiangxi University Finance and Economics,28.68396,115.85306
+959,Parexel,42.37649,-71.23561
+960,Marmara University,41.01384,28.94966
+961,Advanced Institute of Convergence Technology,37.29111,127.00889
+962,Chinese Academy of Social Sciences,39.9075,116.39723
+963,European University Institute,43.77925,11.24626
+964,BEIHANG UNIVERSITY,39.9075,116.39723
+965,Sapienza University of Rome‡,41.89193,12.51133
+966,Cedars-Sinai Medical Center,34.05223,-118.24368
+967,Victorian Institute of Forensic Medicine,-37.8228,144.96434
+968,University Lucian Blaga of Sibiu,45.8,24.15
+969,University of Arizona‡,32.22174,-110.92648
+970,Fu Jen Catholic University,25.05306,121.52639
+971,UT Health,29.42412,-98.49363
+972,Snowflake Inc.,45.67965,-111.03856
+973,Indian Institute of Information Technology Dharwad,15.46005,75.00778
+974,National Research Institute,52.22977,21.01178
+975,Apple*§,37.323,-122.03218
+976,Apple§,37.323,-122.03218
+977,[].ai,24.1469,120.6839
+978,Faculty of Philosophy,44.80401,20.46513
+979,Chinese Academy of Sciences+University of Chinese Academy of Sciences†,39.9075,116.39723
+980,Ss. Cyril and Methodius University,48.37741,17.58723
+981,East China Normal University*,31.22222,121.45806
+982,Université de Toulon,43.12468,6.01033
+983,East China Normal University†,31.22222,121.45806
+984,University of Pennsylvania†,39.95238,-75.16362
+985,Beijing Institute of Technology†‡,39.9075,116.39723
+986,University of New Hampshire∗,43.13397,-70.92645
+987,HEIG-VD,46.77852,6.64115
+988,Peres Academic Center,32.08088,34.78057
+989,Tsinghua University∗,39.9075,116.39723
+990,Aries,50.55344,15.54936
+991,Virginia Tech‡,37.22957,-80.41394
+992,Columbia University†,40.71427,-74.00597
