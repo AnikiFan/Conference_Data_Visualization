@@ -238,24 +238,30 @@ def get_conf_attribute_data(conf, start, end):
         (
             pd
                 .read_csv("./data/raw.csv")
+                # .loc[lambda df:(df.meeting == conf) & (df.year.between(start, end)), :]
                 .sort_values(by="year")
                 .reset_index(drop=True)
                 .dropna(axis=1, how="all")
                 .apply(lambda row: row.mask(row.notna(), int(row.year)), axis=1)
                 .apply(lambda row: row.mask(lambda x: x != row.year, np.inf), axis=1)
+                .assign(raw_meeting=pd.read_csv("./data/raw.csv").meeting)
+                .assign(raw_year=pd.read_csv("./data/raw.csv").year)
                 .astype("category")
                 .to_csv("./data/attribute_available.csv",index=False)
         )
     return (
             pd.read_csv("./data/attribute_available.csv")
-            .loc[lambda df:(df.meeting == conf) & (df.year.between(start, end)), :]
+            .replace(conf_name_map)
+            .loc[lambda df:(df.raw_meeting == conf) & (df.raw_year.between(start, end)), :]
+            .drop(["raw_meeting","raw_year"],axis=1)
             .T
         )
 
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_conf_attribute_fig(conf, start, end):
-    fig = px.imshow(get_conf_attribute_data(conf, start, end), template="plotly_dark")
+    data = get_conf_attribute_data(conf, start, end)
+    fig = px.imshow(data, template="plotly_dark")
     fig.update_coloraxes(
         colorbar=dict(
             title="Available Data",
