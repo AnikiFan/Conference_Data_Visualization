@@ -234,14 +234,21 @@ def get_attribute_fig():
 
 @st.cache_data(persist="disk",show_spinner=True)
 def get_conf_attribute_data(conf, start, end):
+    if not os.path.exists("./data/attribute_available.csv"):
+        (
+            pd
+                .read_csv("./data/raw.csv")
+                .sort_values(by="year")
+                .reset_index(drop=True)
+                .dropna(axis=1, how="all")
+                .apply(lambda row: row.mask(row.notna(), int(row.year)), axis=1)
+                .apply(lambda row: row.mask(lambda x: x != row.year, np.inf), axis=1)
+                .astype("category")
+                .to_csv("./data/attribute_available.csv",index=False)
+        )
     return (
-            read_numeric_data()
+            pd.read_csv("./data/attribute_available.csv")
             .loc[lambda df:(df.meeting == conf) & (df.year.between(start, end)), :]
-            .sort_values(by="year")
-            .reset_index(drop=True)
-            .dropna(axis=1, how="all")
-            .apply(lambda row: row.mask(row.notna(), int(row.year)), axis=1)
-            .apply(lambda row: row.mask(lambda x: x != row.year, np.inf), axis=1)
             .T
         )
 
