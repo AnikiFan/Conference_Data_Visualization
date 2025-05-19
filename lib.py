@@ -200,9 +200,9 @@ def get_attribute_data():
             .rename(index=conf_name_map)
             .rename_axis("Attribute", axis="columns")
             .rename_axis("Conference", axis="index")
-            .to_csv("./data/attribute_data.csv",index=False)
+            .to_csv("./data/attribute_data.csv")
         )
-    return pd.read_csv("./data/attribute_data.csv")
+    return pd.read_csv("./data/attribute_data.csv",index_col=0)
 
 
 @st.cache_data(persist="disk",show_spinner=True)
