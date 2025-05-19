@@ -30,6 +30,8 @@ with col1:
         for fig
         in glob(os.path.join(os.curdir, "data", "wordcloud", f"*{reverse_conf_name_map[select_conf]}*"))
     ]
+    years.sort()
+
     if len(years) >1:
         year = st.select_slider(
             "Select a year to show",
